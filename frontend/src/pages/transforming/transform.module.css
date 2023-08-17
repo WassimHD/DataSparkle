@@ -1,0 +1,163 @@
+.functions {
+  padding-left: 160px;
+}
+.h1 {
+  padding-left: 160px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  font-size: 60px;
+}
+.btn1 {
+  width: 230px;
+  height: 50px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: #95c01f;
+
+  font-size: 15px;
+  margin-bottom: 30px;
+  font-family: "Poppins";
+  text-align: center;
+}
+.btn2 {
+  margin-top: 10px;
+  width: 230px;
+  height: 50px;
+  cursor: pointer;
+  margin-left: 20px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: #1f18a3;
+
+  font-size: 15px;
+  margin-bottom: 30px;
+  font-family: "Poppins";
+  text-align: center;
+}
+
+.btn3 {
+  margin-top: 10px;
+  width: 230px;
+  height: 50px;
+  cursor: pointer;
+  margin-left: 20px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: #1db581;
+
+  font-size: 15px;
+  margin-bottom: 30px;
+  font-family: "Poppins";
+  text-align: center;
+}
+.btn4 {
+  margin-top: 10px;
+  width: 230px;
+  height: 50px;
+  cursor: pointer;
+  margin-left: 20px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: #a92a40;
+
+  font-size: 15px;
+  margin-bottom: 30px;
+  font-family: "Poppins";
+  text-align: center;
+}
+.btn5 {
+  margin-top: 10px;
+  width: 150px;
+  height: 50px;
+  cursor: pointer;
+  margin-left: 350px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: #64128b;
+
+  font-size: 15px;
+  margin-bottom: 30px;
+  font-family: "Poppins";
+  text-align: center;
+}
+
+.btn5 {
+  margin-top: 10px;
+  width: 150px;
+  height: 50px;
+  cursor: pointer;
+  margin-left: 600px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: #64128b;
+
+  font-size: 15px;
+  margin-bottom: 30px;
+  font-family: "Poppins";
+  text-align: center;
+}
+.functions1{
+  margin-top: 0px;
+  padding-left: 160px;
+}
+.btn_visualize{
+  margin-top: 10px;
+  width: 150px;
+  height: 50px;
+  cursor: pointer;
+  margin-left: 1150px ;
+  margin-top: 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: #2d5deb;;
+
+  font-size: 15px;
+  margin-bottom: 30px;
+  font-family: "Poppins";
+  text-align: center; 
+}
+.btn_clean{
+  margin-top: 10px;
+  width: 190px;
+  height: 50px;
+  cursor: pointer;
+  margin-left: 0px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: #ecbe08;
+
+  font-size: 15px;
+  margin-bottom: 30px;
+  font-family: "Poppins";
+  text-align: center; 
+}
+.img1{
+  margin-top: 0px !important;
+margin-bottom: -8px !important;
+  margin-left: 6px;
+}
+.img2{
+  margin-top: 0px ;
+  margin-bottom: -5px ;
+  margin-left: 10px;
+ 
+}
+.table {
+  margin-left: 160px;
+}
+

@@ -1,0 +1,240 @@
+@import "typeface-poppins";
+.Body {
+  background-image: linear-gradient(
+    to bottom,
+    #ccb3f1,
+    #c2b1ee,
+    #b8aeeb,
+    #aface8,
+    #a5a9e4,
+    #a6ade4,
+    #a8b0e4,
+    #aab4e4,
+    #b7bfe8,
+    #c3caec,
+    #d0d6f0,
+    #dde1f4
+  );
+  min-height: 100vh;
+  margin: 0;
+}
+.title {
+  font-family: "Poppins";
+  margin-top: 0px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+.img {
+  margin-top: 200px;
+  padding-top: 100px;
+  height: 400px;
+  width: 200px;
+  flex: 1;
+  padding: 16px;
+  margin-left: 20px;
+}
+.content {
+  flex: 1;
+  padding-top: 60px;
+}
+.loginForme {
+  text-align: center;
+  background-color: white;
+  border-radius: 40px;
+  width: 458px;
+  height: 590px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+.loginInput {
+  width: 400px;
+  height: 30px;
+  padding: 0.75rem;
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #f0efff;
+}
+.loginInputRight {
+  width: 180px;
+  height: 30px;
+  padding: 0.75rem;
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #f0efff;
+  flex: 1;
+  padding-left: 34px;
+  padding-right: 0px;
+}
+.loginInputRight::placeholder {
+  color: #9cb1f2;
+  font-size: 12px;
+  font-family: "Poppins";
+}
+.loginInputLeft::placeholder {
+  color: #9cb1f2;
+  font-size: 12px;
+  font-family: "Poppins";
+}
+.loginInputLeft {
+  width: 180px;
+  height: 30px;
+  padding: 0.75rem;
+  margin-bottom: 20px;
+  margin-left: 17px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #f0efff;
+  flex: 1;
+  padding-right: 10px !important;
+}
+.input1 {
+  display: flex;
+  margin-bottom: 20px;
+}
+.inputFlex {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.btn1 {
+  width: 420px;
+  height: 50px;
+  padding: 0.75rem;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: #2d5deb;
+  font-size: 15px;
+  margin-bottom: 20px;
+  margin-top: 0px;
+  cursor: pointer  ;
+  font-family: "Poppins";
+  text-align: center;
+}
+
+.loginChoice {
+  display: flex;
+  padding-bottom: 10px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.img1 {
+  border: none;
+  background-color: white;
+  flex: 1;
+  width: 30px;
+  border-radius: 5px;
+}
+.img2 {
+  border: none;
+  background-color: white;
+  flex: 1;
+  width: 30px;
+  border-radius: 5px;
+}
+.loginInput::placeholder {
+  color: #9cb1f2;
+  font-size: 12px;
+  font-family: "Poppins";
+}
+.checkbox {
+  text-align: left;
+
+  color: grey;
+  width: 20px;
+  height: 15px;
+}
+.link {
+  color: #2d5deb;
+  font-weight: bold;
+  text-decoration: none;
+  font-family: "Poppins";
+}
+.text {
+  text-align: center;
+  font-family: "Poppins";
+}
+.text1 {
+  font-size: 13px;
+  text-align: center;
+  font-family: "Poppins";
+  color: grey;
+}
+.link1 {
+  text-align: right;
+  color: grey;
+  text-decoration: none;
+  font-family: "Poppins";
+  padding-right: 30px;
+  font-size: 13px;
+}
+.link2 {
+  text-align: right;
+  color: grey;
+  text-decoration: none;
+  font-family: "Poppins";
+
+  font-size: 13px;
+}
+.leftSide {
+  padding-left: 30px;
+  text-align: left;
+  flex: 1;
+
+  color: grey;
+  text-decoration: none;
+  font-family: "Poppins";
+}
+.rightSide {
+  padding-right: 30px;
+  flex: 1;
+  text-align: right;
+  font-size: 13px;
+  color: grey;
+  text-decoration: none;
+  font-family: "Poppins";
+}
+.flexContainer {
+  display: flex;
+}
+.userType {
+  display: flex;
+  text-align: left;
+  color: #4d47c3;
+  font-size: 15px;
+  padding-top: 0px;
+  padding-right: 12px;
+  padding-bottom: 0px;
+  padding-left: 12px;
+  margin-bottom: 20px;
+}
+.accountType {
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 50px;
+  color: #2d5deb;
+  padding: 0.75rem;
+}
+.opt {
+  color: #2d5deb;
+}
+.btnRadio {
+  color: #2d5deb;
+  flex: 1;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.btnRadio2 {
+  flex: 1;
+  margin-left: 50.5px;
+  margin-right: 10px;
+}

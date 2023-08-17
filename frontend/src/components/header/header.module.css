@@ -1,0 +1,19 @@
+.head {
+  background-color: #ecebfc;
+}
+.text {
+  margin-right: 10px;
+  flex: 0;
+  font-size: 20px;
+  font-weight: 500;
+}
+.content {
+  margin-left: 1550px;
+  display: flex;
+  align-items: center;
+}
+
+.user_img {
+  margin-left: 20px;
+  flex: 0;
+}

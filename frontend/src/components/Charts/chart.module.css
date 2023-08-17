@@ -1,0 +1,46 @@
+.selector {
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #c41414;
+  font-size: 16px;
+  background-color: #ffffff;
+}
+/* .ChartBox {
+  width: 500px;
+  padding: 20px;
+} */
+/* .Bar {
+  font-family: sans-serif;
+  padding: 500px;
+  width: 400px;
+  height: 400px;
+} */
+.Container {
+  margin-left: 0px;
+  width: 500px;
+  height: 300px;
+}
+
+.myChart {
+  width: 300px;
+  height: 300px;
+}
+.gauge {
+  margin-left: 120px;
+  width: 70%;
+  height: 30%;
+  margin-bottom: 20px;
+}
+.polarChart {
+  width: 500px;
+  height: 500px;
+  margin-right: 170px;
+  margin-top: 0px;
+  flex: 2;
+}
+.container{
+  display: flex;
+}
+.labelContainer{
+  flex: 1;
+}

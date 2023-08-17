@@ -1,0 +1,68 @@
+.sidebar {
+  height: 100%;
+  width: 80px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #f8f8f8;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidebar_list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar_list_item {
+  cursor: pointer;
+  margin-left: 20px;
+  margin-bottom: 80px;
+}
+
+.sidebar_list_item_home {
+  margin-top: 80px;
+  cursor: pointer;
+  margin-left: 20px;
+  margin-bottom: 80px;
+}
+
+.img {
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
+.btn {
+  cursor: pointer;
+  border-radius: 50%;
+  background-color: white;
+  border: 0px;
+}
+.btn_logout {
+  cursor: pointer;
+  border-radius: 50%;
+  background-color: white;
+  border: 0px;
+  margin-top: 350px;
+}
+
+.btn_logout1 {
+  cursor: pointer;
+  border-radius: 50%;
+  background-color: white;
+  border: 0px;
+  margin-top: 450px;
+}
+.btn_logout3 {
+  cursor: pointer;
+  border-radius: 50%;
+  background-color: white;
+  border: 0px;
+  margin-top: 800px;
+}
+.sidebar_list_item_logout {
+  cursor: pointer;
+  margin-left: 20px;
+  margin-bottom: 0px;
+  margin-top: 200px;
+}

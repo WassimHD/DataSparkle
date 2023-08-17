@@ -1,0 +1,86 @@
+.body {
+  background-image: linear-gradient(
+    to bottom,
+    #c6c1eb,
+    #c6c0ec,
+    #c6bfec,
+    #c7beed,
+    #c7bded,
+    #c7c1ee,
+    #c8c4f0,
+    #c9c8f1,
+    #cdd1f2,
+    #d3daf3,
+    #dbe2f3,
+    #e5eaf2
+  );
+  min-height: 100vh;
+  margin: 0;
+}
+.container {
+  margin-top: 0px;
+  text-align: center;
+}
+.text {
+  font-weight: 500;
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding-top: 50px;
+  font-size: 100px;
+}
+.text1 {
+  font-weight: 500;
+
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding-bottom: 10px;
+  font-size: 100px;
+  padding-top: 0px;
+}
+.text2 {
+  color: #2d5deb;
+}
+.btn {
+  margin-top: 10px;
+  width: 300px;
+  height: 60px;
+  padding: 0.75rem;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: #2d5deb;
+  font-size: 15px;
+  margin-bottom: 30px;
+  font-family: "Poppins";
+  text-align: center;
+  font-weight: 500;
+}
+.link {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+.imgLine {
+  padding-top: 0px;
+  padding-left: 370px;
+  padding-bottom: 0px;
+}
+.imgLamp {
+margin-bottom:113px;
+}
+
+.imgArrow {
+margin-top: 0px ;
+margin-bottom: 89px;
+}
+
+.imgDash {
+padding-top: 0px ;
+margin-top: 55px ;
+
+}
+
