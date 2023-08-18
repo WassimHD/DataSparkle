@@ -1,10 +1,15 @@
 # DataSparkle
 is a powerfull tool for social media data processing ( cleaning and transforming ) with a pre request for your data collection and giving an interfactive dashboard full of insights and KPIs for helping in your decision making and taking new strategies
-![Screen Shot 2023-06-09 at 3 02 18 PM]
 
-![Screen Shot 2023-08-17 at 2 52 50 AM](https://github.com/WassimHD/DataSparkle/assets/109726535/ea6247ab-3c61-43e2-852e-143a06cea3b8)
-![Screen Shot 2023-08-18 at 3 01 45 PM](https://github.com/WassimHD/DataSparkle/assets/109726535/766d273f-314c-403d-801c-5459f0a3924e)
+Home
+![Screen Shot 2023-08-17 at 2 52 24 AM](https://github.com/WassimHD/DataSparkle/assets/109726535/00190b9e-57c9-46b3-8afd-98d4a9049a3c)
 
-![Screen Shot 2023-08-18 at 3 01 10 PM](https://github.com/WassimHD/DataSparkle/assets/109726535/4fca450e-2a97-4ab6-ac84-a2ec342dc426)
+Data Upload
+![Screen Shot 2023-08-17 at 2 52 50 AM](https://github.com/WassimHD/DataSparkle/assets/109726535/aed847b6-05f5-4314-a487-39deaa3fb426)
 
-(https://github.com/WassimHD/DataSparkle/assets/109726535/45c64a37-d94c-489f-aa00-39d2e2d28e34)
+Data Processing
+![Screen Shot 2023-08-18 at 3 01 10 PM](https://github.com/WassimHD/DataSparkle/assets/109726535/d75cc97c-a458-4a05-b279-3b5fcfc45e0a)
+![Screen Shot 2023-08-18 at 3 25 27 PM](https://github.com/WassimHD/DataSparkle/assets/109726535/52259685-c00a-4486-943c-b313674897be)
+
+Dashboard and KPIs
+![Screen Shot 2023-06-09 at 3 02 18 PM](https://github.com/WassimHD/DataSparkle/assets/109726535/26d28f9e-5766-45c0-8ad0-e565dc8f06a0)
