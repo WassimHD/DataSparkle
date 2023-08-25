@@ -83,7 +83,7 @@ DATABASES = {
         "NAME": "social_media_test",
         "ENFORCE_SCHEMA": False,
         "CLIENT": {
-            "host": "mongodb://serveurBehi:tebvev-vedjej-ruPbe7@uat.branper.com:28091/test?authSource=admin&readPreference=primaryPreferred&directConnection=true&ssl=false"
+            "host": " add db string connection here"
         },
     }
 }
