@@ -1,5 +1,5 @@
 # DataSparkle
-is a powerfull tool for social media data processing ( cleaning and transforming ) with a pre request for your data collection and giving an interfactive dashboard full of insights and KPIs for helping in your decision making and taking new strategies
+is a powerfull tool for social media data processing ( cleaning and transforming ) with a pre request for your data collection and giving an interactive dashboard full of insights and KPIs for helping in your decision making and taking new strategies
 
 Home
 ![Screen Shot 2023-08-17 at 2 52 24 AM](https://github.com/WassimHD/DataSparkle/assets/109726535/00190b9e-57c9-46b3-8afd-98d4a9049a3c)
